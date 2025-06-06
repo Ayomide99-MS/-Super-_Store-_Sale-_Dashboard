@@ -38,3 +38,10 @@ An interactive dashboard project analyzing Super Store's 2015 retail sales data 
 
 ## 📂 Project Structure
 
+
+## ✅ Status
+✔️ Completed
+
+## 👤 Author
+Ayomide | Data Analyst  
+Tools: Excel | Power BI | SQL | Python  
